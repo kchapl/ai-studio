@@ -1,0 +1,6 @@
+{
+  "name": "SkyLog - Daily Weather Google Sheets Tracker",
+  "description": "Automated daily weather logging to Google Sheets powered by OpenWeatherMap, with interactive monthly summaries and responsive analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
